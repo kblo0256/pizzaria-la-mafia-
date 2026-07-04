@@ -1,0 +1,6 @@
+{
+  "name": "La Máfia Pizzaria",
+  "description": "Site elegante, moderno e responsivo para a La Máfia Pizzaria - Sabor, tradição e sofisticação italiana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
